@@ -1,4 +1,5 @@
 # Dashboardv2
+![Alt text](file:///C:/Users/sethp/Desktop/Dashboard.PNG "DASHBOARD")
 This is my dashboard written in html css javascript wiht a python server.
 total of 4 apis and two more apps running on python server.
 the apis are:
@@ -11,7 +12,7 @@ spotify: gets now playing
 
 coingecko: gets crypto prices
 
-(there is one more that is specific to me so there will be a blank box)
+(there is one more that is specific to me so there will be a blank box)-this is the dove/cat box in image
 
 the two local 'apis' are: 
 
