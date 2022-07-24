@@ -1,6 +1,6 @@
 # Dashboardv2
 
-
+![Employee data](/Dashboardv2/Dashboard.png?raw=true "Employee Data title")
 
 This is my dashboard written in html css javascript wiht a python server.
 total of 4 apis and two more apps running on python server.
