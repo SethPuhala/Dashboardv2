@@ -1,0 +1,198 @@
+html{
+	height: 100%;
+	background-image: url('bg.jpg');
+	cursor: none;
+}
+
+
+h1 {
+	margin: 0;
+	border: none;
+	text-align: center;
+	/*color: #6486c1;*/
+	color: #fc915f;
+
+}
+
+p{
+	margin: 0;
+	border: none;
+	color: white;
+	font-size: 35px;
+	text-align: center;
+}
+
+div{
+	margin: 0;
+	border: none;
+}
+
+.circle{
+	border-radius: 50%;
+	background-color: #4142429f;
+
+}
+
+.box{
+	border-radius: 7px;
+	background-color: #4142429f;
+}
+
+
+.spt{
+	color: white;
+	font-size: 40px;
+	line-height: 45px;
+}
+
+#song{
+	line-height: 60px;
+}
+
+#timebox{
+	position: absolute;
+	top: 786px;
+	left: 366px;
+	height: 348px;
+	width: 348px;
+
+}
+
+#cryptobox{
+	width: 350px;
+	height: 552px;
+
+}
+
+#spotifybox{
+	position: absolute;
+	height: 600px;
+	width: 704px;
+	left: 366px;
+	top: 8px;
+
+}
+
+#splabel{
+	font-size: 60px;
+}
+
+#coverimg{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 300px;
+	width: 300px;
+}
+
+.crt{
+	font-size: 50px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 184px;
+}
+
+#weatherbox{
+	position: absolute;
+	top: 568px;
+	left: 8px;
+	height: 352px;
+	width: 350px;
+}
+
+.wt{
+	line-height: 117px;
+	font-size: 50px;
+}
+
+
+
+
+#time{
+	
+	font-size: 120px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 350px;
+
+}
+
+#datebox{
+	position: absolute;
+	top: 616px;
+	left: 722px;
+	height: 518px;
+	width: 350px;
+}
+
+.dt{
+	line-height: 192px;
+	font-size: 65px;
+}
+
+#blankbox{
+	position: absolute;
+	height: 488px;
+	width: 350px;
+	top: 928px;
+
+
+}
+
+.ht{
+	line-height: 162px;
+	font-size: 45px;
+
+}
+
+
+#bankbox{
+	position: absolute;
+	top: 616px;
+	left: 366px;
+	width:  348px;
+	height: 162px;
+}
+
+
+
+#timerbox{
+	position: absolute;
+	left: 366px;
+	top: 1142px;
+	height: 274px;
+	width: 706px;
+}
+
+
+#timertext{
+	line-height: 272px;
+	font-size: 60px;
+}
+
+#banktext{
+	line-height: 162px;
+	font-size:  65px;
+
+}
+
+
+
+
+
+#versebox{
+	position: absolute;
+	height: 488px;
+	width: 1064px;
+	
+	top: 1424px;
+
+}
+
+
+#verse{
+	font-size: 52px;
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+}
