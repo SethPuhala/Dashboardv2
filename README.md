@@ -3,12 +3,19 @@ This is my dashboard written in html css javascript wiht a python server.
 total of 4 apis and two more apps running on python server.
 the apis are:
 Teller : gets bank balance
+
 openweathermap: weather
+
 spotify: gets now playing
+
 coingecko: gets crypto prices
+
 (there is one more that is specific to me so there will be a blank box)
+
 the two local 'apis' are: 
+
 a script that gets youversions verse of the day,
+
 a countdwon timer to your events
 
 SETUP:
