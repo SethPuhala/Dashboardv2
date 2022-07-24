@@ -1,5 +1,7 @@
 # Dashboardv2
 
+![Image](/repository/Dashboard.PNG "")
+
 This is my dashboard written in html css javascript wiht a python server.
 total of 4 apis and two more apps running on python server.
 the apis are:
